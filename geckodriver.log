@@ -50,3 +50,238 @@ JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=bai-hat-moi&page=
 1633912807592	Marionette	INFO	Stopped listening on port 43905
 JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1633935364424	geckodriver	INFO	Listening on 127.0.0.1:39473
+1633935364431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNNGTk7"
+1633935366294	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNNGTk7/search.json.mozlz4", (void 0)))
+1633935368604	Marionette	INFO	Listening on port 46839
+1633935368855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2412: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159249&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D53%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+1633935446100	geckodriver	INFO	Listening on 127.0.0.1:39561
+1633935446103	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKYYREm"
+1633935448150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKYYREm/search.json.mozlz4", (void 0)))
+1633935450485	Marionette	INFO	Listening on port 43189
+1633935450927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2407: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2407: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2412: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2407: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2407: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2407: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2407: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2407: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2412: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633944572013	geckodriver	INFO	Listening on 127.0.0.1:51485
+1633944572029	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9hQf3n"
+1633944575679	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9hQf3n/search.json.mozlz4", (void 0)))
+1633944579028	Marionette	INFO	Listening on port 38657
+1633944579275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2385: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+1633945004046	geckodriver	INFO	Listening on 127.0.0.1:46665
+1633945004061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepjXYGj"
+1633945006182	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepjXYGj/search.json.mozlz4", (void 0)))
+1633945008946	Marionette	INFO	Listening on port 44735
+1633945009210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2388: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+1633945069681	geckodriver	INFO	Listening on 127.0.0.1:34683
+1633945069697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekWyZ3K"
+1633945072116	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekWyZ3K/search.json.mozlz4", (void 0)))
+1633945074794	Marionette	INFO	Listening on port 37857
+1633945076258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2390: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159249&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D53%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2390: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2385: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633945625099	geckodriver	INFO	Listening on 127.0.0.1:60655
+1633945625115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilege0DK0"
+1633945627550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilege0DK0/search.json.mozlz4", (void 0)))
+1633945630579	Marionette	INFO	Listening on port 46559
+1633945630647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2385: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2390: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2390: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2388: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2388: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=10, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=11, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=12, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=13, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=14, line 2388: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=15, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=16, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=17, line 2390: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=18, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=19, line 2385: unreachable code after return statement
+1633945780896	geckodriver	INFO	Listening on 127.0.0.1:57083
+1633945780914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGELtjC"
+1633945783156	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGELtjC/search.json.mozlz4", (void 0)))
+1633945786331	Marionette	INFO	Listening on port 36971
+1633945786844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2388: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2388: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2385: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2385: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633946347318	geckodriver	INFO	Listening on 127.0.0.1:58785
+1633946347334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQrVo3o"
+1633946349770	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQrVo3o/search.json.mozlz4", (void 0)))
+1633946352222	Marionette	INFO	Listening on port 33881
+1633946352287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2390: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159249&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D53%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+1633946466184	geckodriver	INFO	Listening on 127.0.0.1:46445
+1633946466200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ8SaIy"
+1633946468395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ8SaIy/search.json.mozlz4", (void 0)))
+1633946471537	Marionette	INFO	Listening on port 44945
+1633946471654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2390: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+1633946585918	geckodriver	INFO	Listening on 127.0.0.1:35311
+1633946585933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledzXWKU"
+1633946588264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledzXWKU/search.json.mozlz4", (void 0)))
+1633946590860	Marionette	INFO	Listening on port 41483
+1633946590990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2385: unreachable code after return statement
+1633946673611	geckodriver	INFO	Listening on 127.0.0.1:44371
+1633946673618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaSVdN2"
+1633946675956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaSVdN2/search.json.mozlz4", (void 0)))
+1633946678992	Marionette	INFO	Listening on port 44025
+1633946679043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2392: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159249&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D53%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2395: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=10, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=11, line 2395: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=12, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=13, line 2395: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=14, line 2397: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1633946767348	geckodriver	INFO	Listening on 127.0.0.1:37473
+1633946767418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOX8JJm"
+1633946769786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOX8JJm/search.json.mozlz4", (void 0)))
+1633946772622	Marionette	INFO	Listening on port 42741
+1633946773043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2392: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=10, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=11, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=12, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=13, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=14, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=15, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=16, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=17, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=18, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=19, line 2392: unreachable code after return statement
+1633947052400	geckodriver	INFO	Listening on 127.0.0.1:46841
+1633947052417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSqa7On"
+1633947054573	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSqa7On/search.json.mozlz4", (void 0)))
+1633947057799	Marionette	INFO	Listening on port 44725
+1633947057843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2392: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=10, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=11, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=12, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=13, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=14, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=15, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=16, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=17, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=18, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=19, line 2397: unreachable code after return statement
+1633947302555	geckodriver	INFO	Listening on 127.0.0.1:46327
+1633947302573	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebOz5U0"
+1633947305111	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebOz5U0/search.json.mozlz4", (void 0)))
+1633947307833	Marionette	INFO	Listening on port 44673
+1633947307927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2392: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=10, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=11, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=12, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=13, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=14, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=15, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=16, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=17, line 2397: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=18, line 2392: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=19, line 2392: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1633947624186	Marionette	INFO	Stopped listening on port 44725
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633947625472	Marionette	INFO	Stopped listening on port 44673
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
