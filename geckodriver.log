@@ -285,3 +285,36 @@ JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1634006411127	geckodriver	INFO	Listening on 127.0.0.1:50425
+1634006412094	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY2KBwR"
+1634006414593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY2KBwR/search.json.mozlz4", (void 0)))
+1634006418611	Marionette	INFO	Listening on port 37861
+1634006419322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=1, line 2308: unreachable code after return statement
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=159249&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D53%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?p=158212&predirect=https%3A%2F%2Fcm.gammaplatform.com%2Fadx%2Frecv%3Fpid%3D35%26uid%3D, line 1: ReferenceError: CommonMeta is not defined
+1634006460813	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=2, line 2308: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=3, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=4, line 2308: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=5, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=6, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=7, line 2308: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=8, line 2308: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=9, line 2308: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=10, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=11, line 2311: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=12, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=13, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=14, line 2311: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=15, line 2308: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=16, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=17, line 2308: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=18, line 2313: unreachable code after return statement
+JavaScript warning: https://chiasenhac.vn/mp3/vietnam.html?tab=vua-download&page=19, line 2308: unreachable code after return statement
+1634006539057	Marionette	INFO	Stopped listening on port 37861
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
