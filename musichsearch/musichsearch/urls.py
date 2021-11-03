@@ -19,5 +19,6 @@ from music_search import views
 
 urlpatterns = [
     path('', views.home, name="home"),
-    path('admin/', admin.site.urls)
+    path('admin/', admin.site.urls),
+    path('music/', views.music, name="music"),
 ]
