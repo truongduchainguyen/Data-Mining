@@ -1,5 +1,29 @@
 {% extends 'base.html' %}
 {% block body_block %}
 <title>Music Search</title>
+<h2 class="text-center mt-3 mb-3 border border-primary"><b>Similar Song Search</b></h2>
+<div class="card text-center">
+    <div class="card-header">
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Upload your song</h5>
+        <p class="card-text"><form method="POST" enctype="multipart/form-data">
+            {{form.as_p}}
+            {% csrf_token %}
+            <input type="submit" value="Upload" class="btn btn-primary btn-lg">
+    </form></p>
+    </div>
+    <div class="containter">
+        <div class="row">
+            <div class="col text-center">
+                <a class="btn btn-primary" href="{% url 'home' %}">Back to Home Page</a>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div class="card-footer text-muted">
+    </div>
+</div>
+
 
 {% endblock  %}
