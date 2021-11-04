@@ -1,7 +1,5 @@
-from django.http.response import HttpResponse
 from django.shortcuts import render
-from django.template import loader
-
+from .utils import convert
 from .forms import AudioForm
 
 def home(request):
@@ -12,13 +10,16 @@ def home(request):
 #     return render(request, 'music_search/music.html')
 
 def Audio_store(request):
+    form = AudioForm()
     if request.method == 'POST':
-        form = AudioForm(request.POST, request.FILES or None)
+        form = AudioForm(request.POST, request.FILES)
         if form.is_valid():
+            record = request.FILES['record']
+            data = request.FILES['record'].name
+            audio = record
             form.save()
-            # template = loader.get_template("music_search/demo.html")
-            # return HttpResponse(template.render())
-    else:
-        form = AudioForm
+            return render(request, 'music_search/demo.html', context={'data':data, 'audio':audio})
+        else:
+            form = AudioForm()
     return render(request, 'music_search/music.html', {'form' : form})
 

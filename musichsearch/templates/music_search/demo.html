@@ -5,31 +5,37 @@
 <br>
 <div class="card text-center m-auto" style="width: 18rem;">
 
-    <audio src="/media/songs/{{audio}}" type="audio/x-m4a" class="card-img-top" alt="uploaded audio">
+    <audio controls src="/media/songs/{{audio}}" type="audio/wav" class="card-img-top" alt="uploaded audio">
 
-    <div class="card-body">
+    <!-- <div class="card-body"> -->
 
-      <p class="card-text">{{data}}</p>
+    <!--   <p class="card-text"></p> -->
 
-    </div>
+    <!-- </div> -->
 
 </div>
 
 <br>
 
-<!-- <div class="container"> -->
+<div class="container">
 
-<!--   <div class="row"> -->
+  <div class="row">
 
-<!--     <div class="col text-center"> -->
+    <div class="col text-center">
 
-<!--         <a class="btn btn-primary" href="{% url 'music'  %}"> Back to Upload Page</a> -->
 
-<!--     </div> -->
+        <div class="card-body">
 
-<!--   </div> -->
+            <p class="card-text">{{data}}</p>
 
-<!-- </div> -->
+        </div>
+        <a class="btn btn-primary" href="{% url 'music'  %}"> Back to Upload Page</a>
+
+    </div>
+
+  </div>
+
+</div>
 
 
 
