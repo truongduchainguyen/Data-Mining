@@ -1,5 +1,6 @@
 from django.http.response import HttpResponse
 from django.shortcuts import render
+from django.template import loader
 
 from .forms import AudioForm
 
@@ -15,7 +16,8 @@ def Audio_store(request):
         form = AudioForm(request.POST, request.FILES or None)
         if form.is_valid():
             form.save()
-            return HttpResponse('sucessfully uploaded')
+            # template = loader.get_template("music_search/demo.html")
+            # return HttpResponse(template.render())
     else:
         form = AudioForm
     return render(request, 'music_search/music.html', {'form' : form})
