@@ -4,51 +4,20 @@
 <h2 class="text-center mt-3 mb-3 border border-primary"><b>Your Result Is</b></h2>
 <br>
 <div class="card text-center m-auto" style="width: 18rem;">
-
     <audio controls src="/media/songs/{{audio}}" type="audio/wav" class="card-img-top" alt="uploaded audio">
-
-    <!-- <div class="card-body"> -->
-
-    <!--   <p class="card-text"></p> -->
-
-    <!-- </div> -->
-
 </div>
 <br>
-<div class="card text-center m-auto" style="width: 18rem;">
-
-  <audio controls src="/media/{{link_song}}.wav" type="audio/wav" class="card-img-top" alt="uploaded audio">
-
-  <!-- <div class="card-body"> -->
-
-  <!--   <p class="card-text"></p> -->
-
-  <!-- </div> -->
-
-</div>
-
-<br>
-
 <div class="container">
-
   <div class="row">
-
     <div class="col text-center">
-
         {% for i in searched_song %}
         <div class="card-body">
             <p class="card-text">{{i}}</p>
         </div>
         {% endfor %}
-
         <a class="btn btn-primary" href="{% url 'music'  %}"> Back to Upload Page</a>
-
     </div>
-
   </div>
-
 </div>
-
-
 
 {% endblock %}

@@ -37,10 +37,8 @@ def Audio_store(request):
                 if idx == 5:
                     break
             
-            # link_song = convert("D:/Google Drive/Data Mining/songs/" + str(searched_song[0]) + ".m4a")
-            link_song = str(searched_song[0])
             form.save()
-            return render(request, 'music_search/demo.html', context={'searched_song':searched_song, 'audio':audio, 'link_song':link_song})
+            return render(request, 'music_search/demo.html', context={'searched_song':searched_song, 'audio':audio})
         else:
             form = AudioForm()
     return render(request, 'music_search/music.html', {'form' : form})
