@@ -40,8 +40,8 @@ class LSH:
         Nhận xét: Sau khi tăng num_tables và hash_size thì kết quả có cải thiện
         WHY?????
         '''
-        self.num_tables = 6 # <----- Có thể improve được Tăng/giảm?
-        self.hash_size = 24  # <----- Như trên
+        self.num_tables = 24 # <----- Có thể improve được Tăng/giảm?
+        self.hash_size = 48  # <----- Như trên
         self.tables = list()
         for i in range(self.num_tables):
             self.tables.append(Table(self.hash_size, dim))
