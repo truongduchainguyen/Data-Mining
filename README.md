@@ -24,5 +24,5 @@ Giải thích:
 
 ## Running demo
 
-cd Data-Mining/musichsearch
-python manage.py runserver
+- cd Data-Mining/musichsearch
+- python manage.py runserver
