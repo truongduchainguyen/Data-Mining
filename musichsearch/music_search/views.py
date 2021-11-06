@@ -30,11 +30,11 @@ def Audio_store(request):
             results = my_nazash.query(test_sample, test_sr)
             sorted_song_by_results = sorted(results, key=results.get, reverse=True)
             searched_song = []
-            idx = 0
+            idx = 1
             for r in sorted_song_by_results:
-                searched_song.append("{}".format(r.replace("songs/train\\",'').replace(".m4a", '')))
+                searched_song.append("{} | {}".format(idx, r.replace("songs/train\\",'').replace(".m4a", '')))
                 idx += 1
-                if idx == 5:
+                if idx == 6:
                     break
             
             form.save()
