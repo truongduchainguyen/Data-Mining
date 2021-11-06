@@ -20,3 +20,9 @@ Giải thích:
 ## Lưu ý:
 - Với mỗi tab vua-download và bao-hat-moi sẽ chỉ crawl được trang thuộc [1; 19]. Trang 19+ không crawl được, đừng để bị số lượng trang lừa ¯\_(ツ)_/¯
 - Phần chưa hoàn thành là lấy link và download bỏ vào location ./data
+
+
+## Running demo
+
+cd Data-Mining/musichsearch
+python manage.py runserver
